@@ -83,7 +83,7 @@ gitalk:
   owner: kamadhatu
 
 # 输入Google Analytics web tracking code
-google_analytics:
+google_analytics: UA-173001022-1
 
 
 #
