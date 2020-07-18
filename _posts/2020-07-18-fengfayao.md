@@ -11,7 +11,7 @@ comments: true
 
 小可爱说奉法要全文不是很容易搜到。遂搬运之。
 
-复制粘贴自CBETA汉文大藏经电子资料库。
+复制粘贴自[CBETA汉文大藏经电子资料库](https://tripitaka.cbeta.org/mobile/index.php?index=T52n2102_013)
 
 <br/>
 
