@@ -10,7 +10,7 @@ lofter三径就荒，子博客一把甘蔗渣
 
 ------
 
-朋友们的个站：
+**朋友们的个站：**
 
 [永夜](https://knightshen711.github.io/ForeverNight/)
 
