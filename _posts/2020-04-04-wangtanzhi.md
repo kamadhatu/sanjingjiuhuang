@@ -17,7 +17,7 @@ pinned: false
 
 　　很儒很典范，可歌可泣可组织学习。
 
-　　再看，郗家门口忍不下气（老谢挽尊*1），新亭倒拿手版（老谢挽尊*2），连发四封信劝老谢不要听音乐会（老谢：Thank you very much I appreciate it.）
+　　再看，郗家门口忍不下气（老谢挽尊x1），新亭倒拿手版（老谢挽尊x2），连发四封信劝老谢不要听音乐会（老谢：Thank you very much I appreciate it.）
 
 　　这位仁兄脑筋是不是不会拐弯。
 
