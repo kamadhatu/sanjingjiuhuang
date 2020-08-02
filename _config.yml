@@ -16,7 +16,7 @@ url: http://sanjingjiuhuang.net/
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: 
+baseurl: /sanjingjiuhuang
 
 
 #
@@ -77,8 +77,8 @@ footer-text: Copyright (c) 2020 一把甘蔗渣
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 57a444cd439c78e9c7fc
-  clientSecret: f79d9a7cb877b221dee41e5f25e670962885d5a5
+  clientID: 7ca27ed6b93ea2536ea2
+  clientSecret: 0cc85da1475577b22f611903c579485bc99af60b
   repo: sanjingjiuhuang
   owner: kamadhatu
 
