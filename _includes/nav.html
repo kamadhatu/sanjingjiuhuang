@@ -19,6 +19,24 @@
       {% endif %}
       {% endfor %}
     </nav>
+    <!-- HTML elements for search -->
+    <input type="text" id="search-input" placeholder="搜索博客文章...">
+    <ul id="results-container"></ul>
+
+    <!-- or without installing anything -->
+    <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+    <script>
+	    SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>', // 文章列表模板
+    noResultsText: '没有搜索到文章', // 无搜索数据提示语
+    limit: 20, // 返回最大文章数
+    fuzzy: false // 是否模糊匹配
+    })
+
+    </script>
   </div>
 
   <div class="wrapper-footer-desktop">
