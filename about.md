@@ -21,3 +21,5 @@ lofter三径就荒，子博客一把甘蔗渣
 [ハナガタミ](https://kanransya.github.io/nami-jetcoaster/)
 
 [阿粟粟](https://ceciliasue.github.io/)
+
+[Caesitas](https://caesitas-c.github.io/blog/)
