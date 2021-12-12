@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 永和十二年秋，桓温致王羲之
-date: 2021-03-19
+date: 2021-10-24
 author: 一把甘蔗渣
 tags: [国史, 东晋, 同人]
 comments: true
